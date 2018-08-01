@@ -1,0 +1,13 @@
+{
+    "name": "krinn/zk-attend",
+    "description": "PHP Library for ZK Biometric Attendance",
+    "type": "library",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "Darshan",
+            "email": "networks@krinn.in"
+        }
+    ],
+    "require": {}
+}
