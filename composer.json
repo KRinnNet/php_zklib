@@ -2,7 +2,7 @@
     "name": "krinn/zk-attend",
     "description": "PHP Library for ZK Biometric Attendance",
     "type": "library",
-    "license": "GNU General Public License v2.0",
+    "license": "LGPL-2.0-only",
     "authors": [
         {
             "name": "Darshan",
