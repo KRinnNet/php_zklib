@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ZKattend\\": "zklib/"
+            "KRinn\\ZKattend\\": "zklib"
         }
     },
     "minimum-stability": "dev"
